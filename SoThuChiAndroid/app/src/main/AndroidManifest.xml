@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="vn.sothuchi.app">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="vn.sothuchi.moi">
     <application
         android:allowBackup="true"
-        android:label="Sổ Thu Chi"
+        android:label="Sổ Thu Chi Mới"
         android:supportsRtl="true"
         android:theme="@android:style/Theme.Material.Light.NoActionBar">
         <activity
-            android:name=".MainActivity"
+            android:name="vn.sothuchi.app.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
