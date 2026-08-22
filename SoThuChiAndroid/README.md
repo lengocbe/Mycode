@@ -1,6 +1,6 @@
 # Sổ Thu Chi Android
 
-Ứng dụng Android độc lập để ghi thu chi cá nhân, lưu dữ liệu cục bộ trên điện thoại.
+Ứng dụng Android độc lập để ghi thu chi cá nhân, lưu dữ liệu cục bộ trên điện thoại. Mã ứng dụng là `vn.sothuchi.moi`, nên có thể cài chạy song song với các app Sổ Thu Chi cũ.
 
 ## Chức năng
 
